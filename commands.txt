@@ -1,0 +1,9 @@
+cd 
+ls
+Desktop
+g++ dijkstra.c
+gcc -o dijkstra  dijkstra.c  -lGL -lglut -lGLU  -lm -std=c99 
+./dijkstra
+
+
+
